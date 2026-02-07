@@ -27,3 +27,10 @@ int main(){
     }
     return 0;
 }
+
+/*
+For viewing process tree use pstree command, here
+
+pstree -p | grep <child_pid>
+
+*/
